@@ -1,4 +1,5 @@
 # Gets all files and directories recursively and emails then to a specific email address.
+
 package SendBackUpFiles;
 
 use Mail::Sender;
