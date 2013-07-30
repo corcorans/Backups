@@ -1,4 +1,4 @@
-# Gets all files and directories recursively and emails then to a specific email address.
+# Gets all files and directories recursively and emails them to a specific email address.
 
 package SendBackUpFiles;
 
